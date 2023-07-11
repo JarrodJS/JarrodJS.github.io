@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;Jarrod;;;
+FN:Jarrod Smith
+ORG:Terwilliger Brothers Residential
+ADR;TYPE=WORK:
+TITLE:Development Associate
+TEL;TYPE=CELL:813-728-0059
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:jarrod@terwilligerres.com
+URL;TYPE=Digital Business Card:
+URL:https://terwilligerres.com/
+URL;TYPE=Website:https://terwilligerres.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100128558
+END:VCARD
